@@ -1,0 +1,22 @@
+{ "ideas": 
+  [
+    {
+    "id": 1,
+    "text": "Idea one",
+    "star": false,
+    "quality": "Swill"
+  },
+  {
+    "id": 2,
+    "text": "Idea two",
+    "star": false,
+    "quality": "Swill"
+  },
+  {
+    "id": 3,
+    "text": "Idea three",
+    "star": false,
+    "quality": "Swill"
+  }],
+  "favorites": []
+}
